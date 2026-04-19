@@ -69,3 +69,5 @@ celerybeat.pid
 *.env
 .env.*
 !.env.example
+
+reports_storage/
